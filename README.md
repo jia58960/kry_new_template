@@ -1,4 +1,4 @@
-kry-new
+METRONIC NEW TEMPLATE
 =======
 
 KRY官网第二版采用的静态模板文件
